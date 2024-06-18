@@ -48,7 +48,8 @@ Generate a random starting layout of living cells to kickstart the simulation. T
 
 - Clone the repository by opening your terminal and navigating to the directory where you want to clone the repository. Then, run the following command:
 ```bash
-  git clone https://github.com/t-kadre/Game-of-Life
+  git clone https://github.com/Mahadev2074/GameofLifeClone.git
+
 ```
 
 - Navigate to the App Directory:
