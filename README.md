@@ -54,7 +54,7 @@ Generate a random starting layout of living cells to kickstart the simulation. T
 
 - Navigate to the App Directory:
 ```bash
-  cd Game-of-Life
+  cd GameofLife
 ```
 
 - Install the required dependencies using npm package manager:
